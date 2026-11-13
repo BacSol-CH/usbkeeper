@@ -1,0 +1,7 @@
+target/
+logs/
+e2e/
+test/sticks/
+test/archive*/
+/Cargo.lock
+*.bak
